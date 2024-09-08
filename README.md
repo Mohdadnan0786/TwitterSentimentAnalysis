@@ -17,6 +17,6 @@ The objective of this project is to develop a robust Twitter Sentiment Analysis 
 <b>Data Quality:</b> Ensuring the dataset is representative and free from bias, and handling noisy and unstructured text data.<br>
 <b>Language and Slang:</b> Dealing with informal language, slang, abbreviations, and emojis commonly used on Twitter.<br>
 <b>Feature Selection:</b> Identifying the most relevant features that effectively capture the sentiment in tweets.</br>
-<b>Model Accuracy:</b> Achieving high accuracy in sentiment classification, particularly for ambiguous or context-dependent tweets.</bbr>
+<b>Model Accuracy:</b> Achieving high accuracy in sentiment classification, particularly for ambiguous or context-dependent tweets.</br>
 <b>Scalability:</b> Developing a system that can handle large volumes of data and provide real-time analysis.<br>
 <b>Sentiment Ambiguity:</b> Addressing the challenges posed by tweets that contain mixed sentiments or sarcasm.<br>
